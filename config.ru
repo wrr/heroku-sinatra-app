@@ -1,4 +1,4 @@
-require 'heroku-sinatra-app'
+require './heroku-sinatra-app'
 require 'rack/wwwhisper'
 
 use Rack::WWWhisper
