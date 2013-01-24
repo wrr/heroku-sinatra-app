@@ -1,0 +1,15 @@
+GEM
+  specs:
+    addressable (2.3.2)
+    net-http-persistent (2.8)
+    rack (1.4.4)
+    rack-wwwhisper (1.0.5)
+      addressable (~> 2.0)
+      net-http-persistent
+      rack (~> 1.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  rack-wwwhisper (~> 1.0)
